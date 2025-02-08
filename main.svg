@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+     viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080" xml:space="preserve">
+     <script>
+document.title='Gorji UI Site';
+const favicon = document.getElementById('favicon');
+favicon.href = "http://bayanbox.ir/view/8546593143134723522/9.gif";
+     </script>
+    <style>
+        /* استایل برای بارگذاری نرم */
+        .fade-in {
+            opacity: 0;
+            animation: fadeIn 1s forwards;
+        }
+        
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+    <g class="fade-in">
+        <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0.5" y1="540" x2="1919.5" y2="540">
+            <stop offset="0" style="stop-color:#FF7BAC"/>
+            <stop offset="0.4571" style="stop-color:#A73EAB;stop-opacity:0.5429"/>
+            <stop offset="0.8268" style="stop-color:#6511AA;stop-opacity:0.1732"/>
+            <stop offset="1" style="stop-color:#4C00AA;stop-opacity:0"/>
+        </linearGradient>
+        <rect x="0.5" y="0.5" fill="url(#SVGID_1_)" width="1919" height="1079"/>
+        <path d="M1919,1v1078H1V1H1919 M1920,0H0v1080h1920V0L1920,0z"/>
+    </g>
+    <g class="fade-in">
+        <linearGradient id="SVGID_00000065043088933772808590000002750493137037837228_" gradientUnits="userSpaceOnUse" x1="802.5" y1="134" x2="1029.5" y2="134">
+            <stop offset="0" style="stop-color:#FF7BAC"/>
+            <stop offset="1" style="stop-color:#FF7BAC;stop-opacity:0"/>
+        </linearGradient>
+        <a xlink:href="paypage.svg" target="_self">
+            <rect x="802.5" y="83.5" fill="url(#SVGID_00000065043088933772808590000002750493137037837228_)" width="227" height="101"/>
+            <path d="M1027,86v96H805V86H1027 M1032,81H800v106h232V81L1032,81z"/>
+        </a>
+    </g>
+    <text class="fade-in" transform="matrix(1 0 0 1 838.458 162)" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" font-family="'BankGothicBT-Light'" font-size="90px">Cart</text>
+    <g class="fade-in">
+        <rect x="77.5" y="81.5" width="228" height="171"/>
+        <path d="M305,82v170H78V82H305 M306,81H77v172h229V81L306,81z"/>
+    </g>
+    <rect x="87" y="119" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 383 412)" fill="none" width="209" height="174"/>
+    
+    <!-- اضافه کردن تصویر GIF به جای متن Logo -->
+    <image class="fade-in" x="100.2222" y="125.0156" width="130px" height="100px" xlink:href="http://bayanbox.ir/view/8546593143134723522/9.gif" />
+
+    <rect x="924" y="464" width="594" height="957"/>
+    <rect x="994" y="559" fill="#FFFFFF" width="172" height="172"/>
+    <rect x="1246" y="559" fill="#FFFFFF" width="191" height="174"/>
+    <text class="fade-in" transform="matrix(1.0166 0 0 1 -71.8042 491.7188)">
+        <tspan x="0" y="0" fill="#030015" font-family="'AdobeArabic-Regular'" font-size="141.9567px">A New World</tspan>
+        <tspan x="14.22" y="109.51" fill="#030015" font-family="'AdobeArabic-Regular'" font-size="141.9567px">In Now Worlds</tspan>
+    </text>
+    <rect x="1729" y="324" width="228" height="203"/>
+    <rect x="1632" y="599" width="40" height="60"/>
+    <rect x="1518" y="293" width="36" height="0"/>
+    <rect x="1319" y="293" width="49" height="74"/>
+    <rect x="1603" y="1001" width="29" height="46"/>
+    <rect x="689" y="81" width="31" height="32"/>
+    <rect x="672" y="956" width="33" height="68"/>
+    <rect x="549" y="330" width="37" height="37"/>
+    <rect x="37" y="799" width="91" height="91"/>
+    <rect x="349" y="629" width="68" height="30"/>
+    <g class="fade-in">
+        <linearGradient id="SVGID_00000181062488975618340560000004916227661822495146_" gradientUnits="userSpaceOnUse" x1="1107.5" y1="134" x2="1334.5" y2="134">
+            <stop offset="0" style="stop-color:#FF7BAC"/>
+            <stop offset="1" style="stop-color:#FF7BAC;stop-opacity:0"/>
+        </linearGradient>
+        <a xlink:href="menu.svg" target="_self">
+            <rect x="1107.5" y="83.5" fill="url(#SVGID_00000181062488975618340560000004916227661822495146_)" width="227" height="101"/>
+            <path d="M1332,86v96h-222V86H1332 M1337,81h-232v106h232V81L1337,81z"/>
+        </a>
+    </g>
+    <text class="fade-in" transform="matrix(0.8949 0 0 1 1123.6655 162.4971)" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" font-family="'BankGothicBT-Light'" font-size="90px">Menu</text>
+    <g class="fade-in">
+        <linearGradient id="SVGID_00000140004016464492854000000000236324342788968380_" gradientUnits="userSpaceOnUse" x1="1422.4998" y1="134" x2="1649.4998" y2="134">
+            <stop offset="0" style="stop-color:#FF7BAC"/>
+            <stop offset="1" style="stop-color:#FF7BAC;stop-opacity:0"/>
+        </linearGradient>
+        <a xlink:href="login.svg" target="_self">
+            <rect x="1422.5" y="83.5" fill="url(#SVGID_00000140004016464492854000000000236324342788968380_)" width="227" height="101"/>
+            <path d="M1647,86v96h-222V86H1647 M1652,81h-232v106h232V81L1652,81z"/>
+        </a>
+    </g>
+    <text class="fade-in" transform="matrix(0.8949 0 0 1 1471.9431 162.4971)" fill="#FFFFFF" stroke="#000000" stroke-width="2" stroke-miterlimit="10" font-family="'BankGothicBT-Light'" font-size="90px">Log</text>
+    <rect x="306" y="1047" fill="#7500F4" width="178" height="115"/>
+    <rect x="-63" y="956" fill="#7500F4" width="160" height="91"/>
+    <rect x="286" y="-30" fill="#7500F4" width="49" height="27"/>
+    <rect x="-82" y="-30" fill="#7500F4" width="119" height="67"/>
+    <rect x="1518" y="-64" fill="#7500F4" width="85" height="85"/>
+    <rect x="767" y="464" fill="#7500F4" width="47" height="65"/>
+</svg>
